@@ -55,7 +55,7 @@ const App = () => {
           <li>✔ مواقع شركات ومتاجر إلكترونية</li>
         </ul>
         <a
-          href="https://wa.me/964XXXXXXXXXX"
+          href="https://wa.me/989034260454"
           className="bg-white text-yellow-500 px-6 py-3 rounded-full font-bold hover:bg-yellow-200 transition"
         >
           تواصل عبر واتساب
@@ -87,7 +87,7 @@ const App = () => {
           <li>✔ طراحی فروشگاه و سایت شرکتی</li>
         </ul>
         <a
-          href="https://wa.me/964XXXXXXXXXX"
+          href="https://wa.me/989034260454"
           className="bg-white text-green-700 px-6 py-3 rounded-full font-bold hover:bg-green-300 transition"
         >
           ارتباط در واتساپ
@@ -119,7 +119,7 @@ const App = () => {
           <li>✔ Corporate & E-commerce Websites</li>
         </ul>
         <a
-          href="https://wa.me/964XXXXXXXXXX"
+          href="https://wa.me/989034260454"
           className="bg-white text-blue-700 px-6 py-3 rounded-full font-bold hover:bg-blue-300 transition"
         >
           Contact on WhatsApp
